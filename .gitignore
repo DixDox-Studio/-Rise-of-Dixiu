@@ -1,4 +1,10 @@
-*/
+*
 profile.json
 servers.dat
-!mods/
+patchouli_data.json
+usercache.json
+usernamecache.json
+options.txt
+!mods/*
+!bcc-common.toml
+!*/
