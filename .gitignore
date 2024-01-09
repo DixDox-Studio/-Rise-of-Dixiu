@@ -6,5 +6,6 @@ usercache.json
 usernamecache.json
 options.txt
 !mods/*
+!skipped/*
 !bcc-common.toml
 !*/
